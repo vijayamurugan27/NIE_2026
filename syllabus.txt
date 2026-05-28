@@ -1,0 +1,77 @@
+The National Institute of Engineering
+2025-2026
+
+Course Structure
+
+Sl. No. | Modules | No. of Lecture Hours | No. of Tutorial Hours | No. of Practical Hours
+------------------------------------------------------------------------------------------------------------------------
+Module 1: Introduction
+------------------------------------------------------------------------------------------------------------------------
+1.1     | Introduction:WhatisDataScience?                                                                | 1 | - | -
+1.2     | BigDataandDataSciencehypeandgettingpastthehype,                                                | 1 | - | -
+1.3     | Why now?Data fiction, Current land scape of perspectives, A Data ScienceProfile,Thought        | 1 | - | -
+        | Experiment:Meta-Definition,OK,SoWhatls a Data Scientist, Really?                               |   |   |  
+1.4     | NeededStatisticalInference:StatisticalThinkingintheAgeofBig Data,StatisticalInference,         | 1 | - | -
+        | Populationsandsamples,Populationsand Samples of Big Data, Big Data Can Mean Big Assumptions     |   |   |  
+1.5     | Modeling:Whatisamodel?Statisticalmodeling,Probability distributions,Fittingamodel,Overfitting   | 2 | - | -
+1.6     | RProgramsforthealgorithms                                                                      | 1 | - | -
+------------------------------------------------------------------------------------------------------------------------
+Module 2: ExploratoryDataAnalysisandDataScienceProcess
+------------------------------------------------------------------------------------------------------------------------
+2.1     | ExploratoryDataAnalysisandtheDataScienceProcess:Basic tools(plots,graphsandsummary             | 1 | - | -
+        | statistics)ofEDA                                                                               |   |   |  
+2.2     | PhilosophyofEDA                                                                                | 1 | - | -
+2.3     | The Data Science Process, A Data Scientist's Role in This Process                              | 1 | - | -
+2.4     | Algorithms:MachineLearningAlgorithms,ThreeBasicAlgorithms: LinearRegression                    | 2 | - | -
+2.5     | k-NearestNeighbors(kNN)                                                                        | 1 | - | -
+2.6     | k-meansClustering                                                                              | 1 | - | -
+2.7     | Comparisonofthesethreealgorithms                                                               | 1 | - | -
+------------------------------------------------------------------------------------------------------------------------
+Module 3: MachineLearningAlgorithmandUsageinApplications
+------------------------------------------------------------------------------------------------------------------------
+3.1     | MachineLearningAlgorithmandUsageinApplications:Spam Filter,LinearRegressionandSpam             | 1 | - | -
+        | Filter,FilteringSpam,                                                                         |   |   |  
+3.2     | K-NNandSpamFilter                                                                              | 2 | - | -
+3.3     | NaïveBayesAlgorithm,SpamFilterusingNaïveBayes,Laplace Smoothing,ComparingNaïveBayesto          | 3 | - | -
+        | K-NNmotivatingapplication.                                                                     |   |   |  
+3.4     | DataWrangling:APIsandothertoolsforscrappingtheWeb                                              | 2 | - | -
+3.5     | introductiontoLogicalRegressionandM6Dcasestudy                                                 | 1 | - | -
+------------------------------------------------------------------------------------------------------------------------
+Module 4: ExtractingMeaningfromData
+------------------------------------------------------------------------------------------------------------------------
+4.1     | ExtractingMeaningfromData:TheKaggleModel                                                       | 1 | - | -
+4.2     | Example:User(customer)retention.                                                              | 1 | - | -
+4.3     | FeatureGeneration(brainstorming,roleofdomainexpertise,andplace forimagination)                 | 1 | - | -
+4.4     | FeatureSelectionalgorithms:Filters;Wrappers                                                    | 1 | - | -
+4.5     | DecisionTrees;                                                                                 | 1 | - | -
+4.6     | RandomForests                                                                                  | 1 | - | -
+------------------------------------------------------------------------------------------------------------------------
+Module 5: RecommendedsystemandDataEngineering
+------------------------------------------------------------------------------------------------------------------------
+5.1     | RecommendationSystems:AReal-WorldRecommendationEngine, SomeProblemswithNearestNeighbors       | 1 | - | -
+5.2     | BeyondNearestNeighbor:MachineLearningClassification                                           | 1 | - | -
+5.3     | TheDimensionalityProblem                                                                       | 1 | - | -
+5.4     | SingularValueDecomposition.                                                                    | 1 | - | -
+5.5     | DataEngineering,Mapreduce,,                                                                   | 1 | - | -
+5.6     | WordFrequencyProblem                                                                           | 1 | - | -
+5.7     | MapReduceSolution                                                                              | - | - | -
+5.8     | OtherExamplesofMapReduce,Pregel-AnIntroduction.                                               | 1 | - | -
+5.9     | DataVisualization:Basicprinciples.                                                             | 1 | - | -
+5.10    | Ideasandtoolsfordatavisualization.                                                             | 1 | - | -
+------------------------------------------------------------------------------------------------------------------------
+Total No. of Lecture Hours   : 40
+Total No. of Tutorial Hours  : 00
+Total No. of Practical Hours : 00
+
+
+Textbook:
+1. Doing Data Science, Cathy O’Neil and Rachel Schutt, Straight Talk from The Frontline O’Reilly, 2014
+
+Reference books:
+1. DataMining:ConceptsandTechniquesJiaweiHan, MichelineKamberand Jian Pei Morgan Kaufmann, Third Edition, 2012
+2. MiningofMassiveDatasetsV2.1JureLeskovec, AnandRajaramanand Jeffrey Ullman, Cambridge University Press, 2nd Edition, 2014
+
+Online Resources:
+1. https://onlinecourses.nptel.ac.in/noc21_cs69
+2. https://www.coursera.org/programs/projects/getting-started-with-kaggle?
+3. https://www.coursera.org/learn/r-programming?
